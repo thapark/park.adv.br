@@ -1,0 +1,5 @@
+---
+layout: post
+title: Conflitos de competência
+---
+<p>Dois recentes julgamentos do Supremo Tribunal Federal (STF), ambos com enorme impacto sobre milhares de ações que tramitam nas instâncias inferiores do Poder Judiciário, trouxeram de volta o debate sobre os limites das competências funcionais da Justiça do Trabalho. O primeiro julgamento decidiu uma Ação Direta de Inconstitucionalidade (Adin) impetrada pela Associação dos Juízes Federais do Brasil (Ajufe), questionando a competência dos juízes trabalhistas para tratar de processos relativos à contratação, pela administração pública, de servidores não concursados. Ao acolher o recurso, o STF entendeu que a Justiça comum seria a mais adequada para tratar do tema e decidiu que não cabe à Justiça do Trabalho julgar ações referentes a servidores públicos. Com isso, os milhares de processos que tramitam em Varas Trabalhistas e Tribunais Regionais do Trabalho terão de ser enviados a varas das Justiças Estaduais e da Justiça Federal.</p><p>Fonte: estadao</p><p><a href="http://www.estadao.com.br/estadaodehoje/20090608/not_imp383913,0.php" target="_blank">Saiba mais </a></p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: TRF3 e incidência da Cofins
+---
+<p>A 6ª Turma do Tribunal Regional Federal da 3ª Região julgou na quinta-feira (18/6) uma disputa entre Fazenda e o banco Real que envolve cerca de R$ 2 bilhões. O TRF-3 entendeu que PIS e Cofins incidem sobre as receitas geradas a partir da atividade principal dos bancos, ou seja, a intermediação ou aplicação de recursos financeiros próprios ou de terceiros. Na prática, o entendimento representa uma enorme diferença de valores a serem pagos entre o que defende a Procuradoria-Geral da Fazenda Nacional (PGFN) e as instituições bancárias. Para os bancos, o PIS e a Cofins devem incidir apenas sobre os valores apurados com a cobrança de tarifas de seus clientes. A decisão pode significar o pagamento a mais de 80% a 90% de PIS e de Cofins, conforme cálculos estimados pelo fisco.</p><p>Fonte: conjur</p><p><a href="http://www.conjur.com.br/2009-jun-22/trf-abre-precedente-ampliar-incidencia-cofins-bancos" target="_blank">Saiba mais </a></p>

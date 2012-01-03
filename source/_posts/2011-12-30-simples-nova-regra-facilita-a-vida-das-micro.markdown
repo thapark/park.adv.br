@@ -1,0 +1,5 @@
+---
+layout: post
+title: ! 'Simples: nova regra facilita a vida das micro'
+---
+<div>As novas regras do Simples Nacional que entram em vigor na segunda-feira, dia 2, vão beneficiar tanto as empresas que já estão no sistema quanto cerca de 500 mil outras que perderam o direito de participar do regime e agora poderão retornar. O sistema, que unifica o pagamento de oito tributos federais, estaduais e municipais, teve os limites de faturamento para inclusão ampliados em 50%, o que deve estimular o crescimento dos negócios. As mudanças nas normas vão possibilitar ainda a desoneração de alguns empreendimentos, além de permitirem o parcelamento de pendências e incentivarem a exportação.</div><div><br /></div><div>Para os microempreendedores, o limite máximo para enquadramento no Simples passou de R$ 240 mil de faturamento anual para R$ 360 mil. E para as empresas de pequeno porte, o teto foi ampliado de R$ 2,4 milhões para R$ 3,6 milhões de movimento financeiro no ano. </div><div> </div><div>Fonte: Aasp</div><div> </div><div><a href="http://www.aasp.org.br/aasp/imprensa/clipping/cli_noticia.asp?idnot=11236" target="_blank">Saiba mais</a> </div>

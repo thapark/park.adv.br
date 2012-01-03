@@ -1,0 +1,5 @@
+---
+layout: post
+title: Receita regulamenta parcelamento para micro e pequenas empresas
+---
+<div>O Comitê Gestor do Simples Nacional (CGSN) - órgão ligado à Receita Federal - regulamentou o parcelamento de débitos tributários de micro e pequenas empresas e de microempreendedores individuais, previsto na Lei Complementar nº 139, de 10 de novembro. Esta é a primeira vez que é aberta uma oportunidade para os contribuintes enquadrados no regime especial de tributação regularizarem suas dívidas com a União, Estados e municípios.</div><div><br /></div><div>De acordo com o Sebrae, o parcelamento deve beneficiar cerca de 500 mil micro e pequenas empresas inadimplentes. "É uma boa oportunidade. Muitas empresas podem ser excluídas do Simples se não quitarem integralmente seus débitos até o fim do ano. Para muitas delas, a exclusão significa o encerramento de suas atividades", diz o advogado Marcelo Jabour, da Lex Legis Consultoria Tributária.</div><div> </div><div>Fonte: aasp</div><div> </div><div><a href="http://www.aasp.org.br/aasp/imprensa/clipping/cli_noticia.asp?idnot=11020" target="_blank">Saiba mais</a> </div>

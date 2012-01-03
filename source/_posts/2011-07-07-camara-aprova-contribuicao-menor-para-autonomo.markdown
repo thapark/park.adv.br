@@ -1,0 +1,5 @@
+---
+layout: post
+title: Câmara aprova contribuição menor para autônomo
+---
+<div>A Câmara dos Deputados aprovou nesta quarta-feira a Medida Provisória que reduziu de 11% para 5% a contribuição previdenciária paga por quem adere ao programa Microempreendedor Individual (MEI).</div><div><br /></div><div>Os deputados incluíram no projeto benefícios também para donas de casas e pessoas com deficiência. A MP segue para votação no Senado.</div><div><br /></div><div>Com a redução da alíquota, a expectativa é que aumente a formalização. O MEI existe há cerca de dois anos e é a forma encontrada pelo governo para formalizar profissionais que atuam como autônomos e têm renda bruta de até R$ 36 mil anuais. Quem adere ao programa recebe um número de CNPJ e passa a ter direitos como licença-maternidade, auxílio doença e aposentadoria. </div><div> </div><div>Fonte: Aasp</div><div> </div><div><a href="http://www.aasp.org.br/aasp/imprensa/clipping/cli_noticia.asp?idnot=10206" target="_blank">Saiba mais </a></div>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: TST fará mutirão para achar bens de devedores
+---
+<p>Numa iniciativa para reduzir o número de trabalhadores que ganham ações judiciais, mas não conseguem receber o que têm direito, o Tribunal Superior do Trabalho (TST) realizará pela primeira vez um mutirão nacional com o objetivo de levantar esses processos (execuções), assim como bens dos devedores. A ideia é durante uma semana buscar nos arquivos dos fóruns trabalhistas as ações de execuções que estão há anos à espera de um desfecho, mas não são cumpridas por ausência de bens do devedor. E, nesse caso, fazer uma nova checagem em contas bancárias, veículos e imóveis dos inadimplentes. A medida é uma das propostas da Semana Nacional da Execução Trabalhista - instituída por um ato do presidente do Conselho Superior da Justiça do Trabalho, ministro João Oreste Dalazen -, que será realizada do dia 28 de novembro a 2 de dezembro.</p><p>Fonte: aasp</p><p><a href="http://www.aasp.org.br/aasp/imprensa/clipping/cli_noticia.asp?idnot=10669" target="_blank">Saiba mais </a></p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Justiça pode garantir a pequenos entrada no Refis
+---
+<p>O chamado “Refis da crise”, novo parcelamento de tributos federais instituído pela Lei 11.941, de 27 de maio de 2009, apresenta-se como alternativa interessante para o equacionamento do passivo tributário de diversos contribuintes. Deve-se, portanto, estudar em cada caso a possibilidade de opção por referido parcelamento incentivado, que poderá ser requerido do dia 17 de agosto até as 20hs do dia 30 de novembro de 2009.<br /><br />Em princípio, todos os tributos federais vencidos até 30 de novembro de 2008 que sejam devidos por pessoas físicas ou jurídicas podem ser incluídos no parcelamento (ex: IRPF, IRPJ, II, IE, IPI, ITR, PIS, COFINS, CSLL e demais contribuições sociais e previdenciárias), inclusive o saldo remanescente de débitos consolidados em parcelamentos anteriores (REFIS, PAES, PAEX, parcelamentos ordinários) — mesmo que os contribuintes tenham sido excluídos dos referidos programas de parcelamento.</p><p>Fonte: conjur</p><p><a href="http://www.conjur.com.br/2009-set-02/pequenas-empresas-podem-pedir-justica-aderir-refis-crise" target="_blank">Saiba mais </a></p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Detalhamento de fatura de linha telefônica
+---
+<p>Não tem sentido o cliente de linha telefônica solicitar detalhamento da fatura todos os meses. Com esse entendimento, a 1ª Seção do Superior Tribunal de Justiça uniformizou a obrigatoriedade da discriminação das faturas telefônicas. Em julgamento de matéria submetida ao rito da Lei dos Recursos Repetitivos, o STJ revogou a Súmula 357 que cita “a pedido do assinante, que responderá pelos custos, é obrigatória, a partir de 1º de janeiro de 2006, a discriminação de pulsos excedentes e ligações de telefone fixo para celular”. No caso julgado, uma assinante ajuizou ação de repetição de indébito contra a Telemar Norte Leste S/A, buscando o ressarcimento da cobrança de pulsos excedentes, além da franquia para telefone fixo e ligações para celular, sem a respectiva discriminação das ligações.</p><p>Fonte: conjur</p><p><a href="http://www.conjur.com.br/2009-jun-01/assinante-solicitar-detalhamento-conta-telefonica-vez" target="_blank">Saiba mais </a></p>

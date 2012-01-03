@@ -1,0 +1,6 @@
+---
+layout: post
+title: ! 'STJ começa a definir a quem compete tratar da aquisição de um banco por
+  outro: se Cade ou Bacen'
+---
+<p>O pedido de vista do ministro Castro Meira interrompeu a discussão na Primeira Seção acerca da compra do Banco de Crédito Nacional S/A (BCN) pelo Bradesco S/A. As instituições financeiras questionam a legalidade da decisão do Conselho Administrativo de Defesa Econômica (Cade) que determinou a aplicação complementar da Lei Bancária (4.595/65) e da Lei Antitruste (8.884/94) ao caso.<br /><br />A interrupção se deu após a relatora do recurso, ministra Eliana Calmon, votar pela competência exclusiva do Banco Central do Brasil (Bacen) para apreciar atos de concentração (aquisições, fusões, etc) envolvendo instituições integrantes do Sistema Financeiro Nacional. É a primeira vez que o Superior Tribunal de Justiça (STJ) aprecia a aquisição de um banco por outro. No recurso em questão, conforme explica a ministra, o que se busca definir, na verdade, é justamente de quem é a competência para decidir esses atos de concentração.</p><p>Fonte: stj</p><p><a href="http://www.stj.jus.br/portal_stj/publicacao/engine.wsp?tmp.area=398&tmp.texto=94119" target="_blank">Saiba mais </a></p>

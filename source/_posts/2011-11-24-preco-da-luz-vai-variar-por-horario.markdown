@@ -1,0 +1,5 @@
+---
+layout: post
+title: Preço da luz vai variar por horário
+---
+<div>Em breve, o consumidor que preferir lavar roupa e tomar banho até as 17h poderá pagar uma conta de luz mais barata. A Agência Nacional de Energia Elétrica (Aneel) aprovou a alteração da estrutura tarifária aplicada ao setor de distribuição de energia de baixa tensão. O novo regulamento prevê tarifas diferenciadas por horário de consumo, oferecendo preços mais baratos nos períodos em que o sistema é menos utilizado pelos consumidores.</div><div><br /></div><div>Para os consumidores de baixa tensão (seja os residenciais, comerciais, industriais ou de áreas rurais) a principal mudança é a criação da modalidade tarifária branca, que será uma alternativa à convencional, hoje em vigor, e oferecerá três diferentes patamares para a tarifa de energia, de acordo com os horários de consumo: de baixo consumo (entre 21h e 17h do dia seguinte), de consumo intermediário (entre 17 e 19h) e de pico (das 19h às 21h). </div><div> </div><div>Fonte: aasp</div><div> </div><div><a href="http://www.aasp.org.br/aasp/imprensa/clipping/cli_noticia.asp?idnot=11027" target="_blank">Saiba mais</a> </div>

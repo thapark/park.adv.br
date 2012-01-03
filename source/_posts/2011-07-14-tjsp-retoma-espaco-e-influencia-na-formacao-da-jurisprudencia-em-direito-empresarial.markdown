@@ -1,0 +1,5 @@
+---
+layout: post
+title: TJSP retoma espaço e influência na formação da jurisprudência em Direito Empresarial
+---
+<div>O pólo empresarial paulista ganha um espaço diferenciado para que as suas questões jurídicas sejam discutidas. O Tribunal de Justiça de São Paulo (TJSP) criou, por meio da Resolução nº 538, a Câmara Reservada de Direito Empresarial, instalada no dia 30 de junho.</div><div><br /></div><div>A turma especializada terá como integrantes os desembargadores Manoel de Queiroz Pereira Calças, Romeu Ricupero, José Reynaldo Peixoto de Souza, Ricardo José Negrão Nogueira e Enio Santarelli Zuliani. As sessões acontecerão com periodicidade quinzenal e, segundo a assessoria de imprensa do Tribunal de Justiça de São Paulo, a expectativa é de que decisões, que podiam levar um ano, aconteçam em até dois meses.</div><div> </div><div>Fonte: BM&FBovespa</div><div> </div><div><a href="http://www.bmfbovespa.com.br/juridico/noticias-e-entrevistas/Noticias/TJSP-retoma-espaco-e-influencia-na-formacao-da-jurisprudencia-em-Direito-Empresarial.asp" target="_blank">Saiba mais</a> </div>

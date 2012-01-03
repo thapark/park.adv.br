@@ -1,0 +1,5 @@
+---
+layout: post
+title: ADI 4227
+---
+<p>A conversão de Medida Provisória em lei que altera o Código Civil está sendo questionada no Supremo Tribunal Federal. O Instituto de Registro de Títulos e Documentos e de Pessoas Jurídicas do Brasil (IRTDPBRASIL) ajuizou Ação Direta de Inconstitucionalidade contra parte da Lei 11.882, resultado da MP 442. O relator da ADI é o ministro Eros Grau. O texto inicial da MP tinha como objetivo autorizar o Banco Central a socorrer pequenos e médios bancos. Uma emenda, no entanto, proibiu que os órgãos de trânsito dos estados (Detrans) deleguem serviços de licenciamento de veículos, por convênio, aos oficiais dos cartórios de registros de títulos de documentos. O IRTDP afirma que a lei desrespeita o artigo 1.361 do Código Civil, na medida em que este obriga o registro de contrato para constituição de propriedade fiduciária e a lei federal dispensa esse procedimento.</p><p>Fonte: conjur</p><p><a href="http://www.conjur.com.br/2009-abr-19/conversao-mp-lei-muda-codigo-civil-questionada-supremo" target="_blank">Saiba mais </a></p>
