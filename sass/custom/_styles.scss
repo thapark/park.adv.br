@@ -17,23 +17,29 @@ body > header {
   height: 140px; // FIXME 160px;
   border-left: 1px solid #DDD;
   border-right: 1px solid #DDD;
-  padding-top: 49px;
-  padding-bottom: 1em;
+  @media only screen and (min-width: 768px) {
+    padding-top: 49px;
+    padding-bottom: 1em;
+  }
 }
 
 body > header > hgroup {
-  background: url("/images/pk_logo_bg.jpg") repeat-x scroll left top #EEEEEE;
   height: 144px;
-  width: 370px;
   text-align: center;
-  padding-top: 20px;
+  background: url("/images/pk_logo_bg.jpg") repeat-x scroll left top #EEEEEE;
+  @media only screen and (min-width: 768px) {
+    padding-top: 20px;
+    width: 370px;
+  }
 }
 
 div.intro {
-  float: left;
-  width: 420px;
   text-align: justify;
-  margin-right: 90px;
+  @media only screen and (min-width: 768px) {
+    float: left;
+    margin-right: 90px;
+    width: 420px;
+  }
 }
 
 body > footer {
