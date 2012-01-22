@@ -46,10 +46,21 @@ body > footer {
   border-bottom-right-radius: 0px;
 }
 
+body > footer > div {
+  float: right;
+  height: 24px;
+}
+
+body > footer > div > a{
+  line-height: 0px;
+  font-size: 0px;
+}
+
 body > nav form {
   width: 150px;
 }
 
-a:visited {
-  color: #1863A1;
+a, a:hover, a:visited {
+  color: #8B0000;
+  text-decoration: none;
 }
