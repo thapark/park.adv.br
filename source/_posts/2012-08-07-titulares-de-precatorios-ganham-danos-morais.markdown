@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Titulares de precatórios ganham danos morais"
-date: 2012-08-12 23:57
+date: 2012-08-07 23:57
 comments: true
 categories: 
 ---

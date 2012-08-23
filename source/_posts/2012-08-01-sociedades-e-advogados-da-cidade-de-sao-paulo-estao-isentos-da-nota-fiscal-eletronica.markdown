@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sociedades e advogados da cidade de São Paulo estão isentos da nota fiscal eletrônica"
-date: 2012-08-12 23:50
+date: 2012-08-01 23:50
 comments: true
 categories: 
 ---
