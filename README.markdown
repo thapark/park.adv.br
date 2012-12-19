@@ -23,9 +23,9 @@ Vai abrir o textmate: colar a notícia (sem título e com fonte e link) e save
 ```
 rake preview
 ```
-dar Ctrl + c no terminal para sair da notícia
-
 Acessar: [http://localhost:4000/](http://localhost:4000/)
+
+dar Ctrl + c no terminal para sair da notícia
 
 ## Publicando o site
 
