@@ -23,7 +23,7 @@ Vai abrir o textmate: colar a notícia (sem título e com fonte e link)
 rake preview
 ```
 
-Acessar: http://localhost:9292/
+Acessar: [http://localhost:4000/](http://localhost:4000/)
 
 ## Publicando o site
 
