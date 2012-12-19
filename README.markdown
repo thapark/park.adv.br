@@ -2,7 +2,7 @@
 
 ## Criando novo artigo
 
-Abrir Terminal
+Abrir Terminal (dentro de "Other")
 
 ```
 cd Public/park.adv.br
