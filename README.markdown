@@ -36,11 +36,11 @@ rake gen_deploy
 ## Enviando para o GitHub
 
 ```
-git add arquivo_criado
+git add .
 ```
 
 ```
-git commit -m "Novo post: titulo"
+git commit -m "Novo post"
 ```
 
 ```
