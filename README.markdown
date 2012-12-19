@@ -27,21 +27,17 @@ Acessar: http://localhost:9292/
 ## Publicando o site
 
 ```
-rake generate
-```
-
-```
-rake deploy
+rake gen_deploy
 ```
 
 ## Enviando para o GitHub
 
 ```
-git add .
+git add <arquivo_criado>
 ```
 
 ```
-git commit -am "Novo post: <titulo>"
+git commit -m "Novo post: <titulo>"
 ```
 
 ```
