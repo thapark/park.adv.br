@@ -21,6 +21,8 @@ Vai abrir o textmate: colar a notícia (sem título e com fonte e link) e save
 ## (voltar no terminal) Testando localmente
 
 ```
+rake generate
+
 rake preview
 ```
 Acessar: [http://localhost:4000/](http://localhost:4000/)
