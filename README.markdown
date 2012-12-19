@@ -2,8 +2,9 @@
 
 ## Criando novo artigo
 
-Abrir Terminal (dentro de "Other")
+Abrir programa Terminal (dentro de "Other")
 
+Digitar e enter para:
 ```
 cd Public/park.adv.br
 ```
