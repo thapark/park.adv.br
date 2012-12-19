@@ -9,11 +9,11 @@ cd Public/park.adv.br
 ```
 
 ```
-rake new_post['<titulo>']
+rake new_post['titulo']
 ```
 
 ```
-mate <arquivo_criado>
+mate arquivo_criado
 ```
 
 ## Testando localmente
@@ -33,11 +33,11 @@ rake gen_deploy
 ## Enviando para o GitHub
 
 ```
-git add <arquivo_criado>
+git add arquivo_criado
 ```
 
 ```
-git commit -m "Novo post: <titulo>"
+git commit -m "Novo post: titulo"
 ```
 
 ```
