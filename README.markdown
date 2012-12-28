@@ -16,7 +16,7 @@ rake 'new_post[titulo do artigo]'
 ```
 mate arquivo_criado
 ```
-Vai abrir o textmate: colar a notícia (sem título e com fonte e link) e save
+Vai abrir o textmate: colar a notícia sem titulo mais [fonte](link) e save
 
 ## (voltar no terminal) Testando localmente
 
