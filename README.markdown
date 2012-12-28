@@ -10,7 +10,7 @@ cd Public/park.adv.br
 ```
 
 ```
-rake new_post['titulo']
+rake 'new_post[titulo do artigo]'
 ```
 
 ```
