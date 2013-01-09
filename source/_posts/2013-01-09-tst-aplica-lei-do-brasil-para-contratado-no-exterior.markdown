@@ -31,4 +31,4 @@ A gerência da Mello Junior Empreendimentos informou que preferia não se manife
 
 Adriana Aguiar - De São Paulo
 
-[Aasp](http://www.aasp.org.br/aasp/imprensa/clipping/cli_noticia.asp?idnot=13607)
+Fonte [Aasp](http://www.aasp.org.br/aasp/imprensa/clipping/cli_noticia.asp?idnot=13607)
