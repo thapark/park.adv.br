@@ -4,9 +4,9 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "park_adv_br@server.mhfs.com.br"
+ssh_user       = "deployer@server.mhfs.com.br"
 ssh_port       = "22"
-document_root  = "~/www/"
+document_root  = "~/apps/park.adv.br/www/"
 rsync_delete   = true
 deploy_default = "rsync"
 
