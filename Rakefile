@@ -4,11 +4,12 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "deployer@server.mhfs.com.br"
-ssh_port       = "22"
-document_root  = "~/apps/park.adv.br/www/"
-rsync_delete   = true
-deploy_default = "rsync"
+# ssh_user       = "deployer@server.mhfs.com.br"
+# ssh_port       = "22"
+# document_root  = "~/apps/park.adv.br/www/"
+# rsync_delete   = true
+deploy_default = "s3"
+s3_bucket      = "park.adv.br"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -228,6 +229,12 @@ task :copydot, :source, :dest do |t, args|
   FileList["#{args.source}/**/.*"].exclude("**/.", "**/..", "**/.DS_Store", "**/._*").each do |file|
     cp_r file, file.gsub(/#{args.source}/, "#{args.dest}") unless File.directory?(file)
   end
+end
+
+desc "Deploy website via s3cmd"
+task :s3 do
+  puts "## Deploying website via s3cmd"
+  ok_failed system("s3cmd sync --acl-public --reduced-redundancy public/* s3://#{s3_bucket}/")
 end
 
 desc "Deploy website via rsync"
